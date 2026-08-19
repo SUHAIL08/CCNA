@@ -1,0 +1,7 @@
+ip 108.11.0.1
+network id 108.0.0.0
+first id 108.0.0.1
+last ip 108.255.255.254
+broadcast ip 108.255.255.255
+prefix /8
+subnet 255.0.0.0
